@@ -1,0 +1,79 @@
+body, nav
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#985339;
+}
+
+.bgcolor
+{
+    background-color: #fff297;
+    color: #985339;
+}
+
+.navbg
+{
+    background-color: #eefcfd;
+}
+
+.navbtn
+{
+    color:#985339;
+}
+
+.navbtn:hover
+{
+    background-color: #eefcfd;
+    color: #6ad0ff;
+    border: #6ad0ff;
+    border-style: dotted;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.btn
+{
+    background-color: #985339;
+    color: #eefcfd;
+    font-size: 30px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.btn:hover
+{
+    background-color: #fff297;
+    color: #6ad0ff;
+    border: #6ad0ff;
+    border-style: dotted;
+    border-width: thick;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ctn
+{
+    background-color: #eefcfd;
+}
+
+.moreinfo, .card-text
+{
+    text-align: justify;
+}
+
+.moreinfo1
+{
+    text-align: center;
+}
+
+.card
+{
+    color: #985339;
+    background-color: #eefcfd;
+}
+
+
+.responsive
+{
+    max-width: 100%;
+    height: auto;
+}
