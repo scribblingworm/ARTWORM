@@ -55,7 +55,7 @@ body, nav
     background-color: #eefcfd;
 }
 
-.moreinfo, .card-text
+.moreinfo
 {
     text-align: justify;
 }
@@ -76,4 +76,5 @@ body, nav
 {
     max-width: 100%;
     height: auto;
+
 }
